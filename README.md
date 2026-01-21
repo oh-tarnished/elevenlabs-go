@@ -1,4 +1,4 @@
-# Elevenlabs Personal Go API Library
+# Elevenlabs Go API Library
 
 <!-- x-release-please-start-version -->
 
@@ -6,7 +6,7 @@
 
 <!-- x-release-please-end -->
 
-The Elevenlabs Personal Go library provides convenient access to the Elevenlabs Personal REST API
+The Elevenlabs Personal Go library provides convenient access to the Elevenlabs REST API
 from applications written in Go.
 
 
